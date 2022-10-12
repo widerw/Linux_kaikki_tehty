@@ -1,5 +1,5 @@
-# Linux_kaikki_tehty
+# Linux-kurssin tehtävät
 
 Ensimmäinen tehtävä on tehty poikkeuksellisesti wordpress sivulle
 https://walterlinux.wordpress.com/
-Kaikki seuraavat tehtävät on löytyvät täältä
+Kaikki loput tehtävät löytyvät täältä
